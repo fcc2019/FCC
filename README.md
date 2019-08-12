@@ -1,13 +1,15 @@
-FCC-core
-FCC core aims to link all valued blockchain network together.
+<H2>FCC-core</H2>
+<p>FCC core aims to link all valued blockchain network together.</p>
 
-Object
-This is a special blockchain network which aims to link all valued blockchain network together. Crypto-currencies can be exchanged / transfered within FCC network.
+<H2>Object</H2>
+<p>This is a special blockchain network which aims to link all valued blockchain network together. Crypto-currencies can be exchanged / transfered within FCC network.</p>
 
-Feature
-Autonomy of community
-100% cash deposit
-Smart contract (support multi-language, C#, Java, Kotlin)
-POV consensus
-Decentralized POS pool
-General asset minning (mining with any coin, like BTC/LTC etc.)
+<H2>Feature</H2>
+<ul>
+  <li>Autonomy of community</li>
+<li>100% cash deposit</li>
+<li>Smart contract (support multi-language, C#, Java, Kotlin)</li>
+<li>POV consensus</li>
+<li>Decentralized POS pool</li>
+<li>General asset minning (mining with any coin, like BTC/LTC etc.)</li>
+</ul>
