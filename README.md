@@ -1,10 +1,10 @@
-#FCC-core
+FCC-core
 FCC core aims to link all valued blockchain network together.
 
-#Object
+Object
 This is a special blockchain network which aims to link all valued blockchain network together. Crypto-currencies can be exchanged / transfered within FCC network.
 
-#Feature
+Feature
 Autonomy of community
 100% cash deposit
 Smart contract (support multi-language, C#, Java, Kotlin)
